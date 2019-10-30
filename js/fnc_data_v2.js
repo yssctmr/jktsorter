@@ -82,4 +82,9 @@ var ary_CharacterData = [
   [1, "Melati Putri Rahel Sesilia",      [0,0,1,0,0,0], "T/melati_putri_rahel.jpg"],
   [1, "Nabila Fitriana",           [0,0,1,0,0,0], "T/nabila_fitriana.jpg"],
   [1, "Puti Nadhira Azalia",           [0,0,1,0,0,0], "T/puti_nadhira.jpg"],
+  [1, "Rinanda Syahputri",           [0,0,1,0,0,0], "T/rinanda.jpg"],
+  [1, "Sonia Natalia",           [0,0,1,0,0,0], "T/sonia_natalia.jpg"],
+  [1, "Syahfira Angela Nurhaliza",      [0,0,1,0,0,0], "T/syahfira_angela_nurhaliza.jpg"],
+  [1, "Tan Zhi Hui Celine",           [0,0,1,0,0,0], "T/tan_zhi_hui_celine.jpg"],
+  [1, "Thalia Ivanka Elizabeth Frederik",           [0,0,1,0,0,0], "T/thalia_ivanka_elizabeth.jpg"],
 ];
