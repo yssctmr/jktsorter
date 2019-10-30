@@ -3,8 +3,9 @@
 http://yssctmr.github.io/jktsorter
 
 version alpha
+JKT48 Team J, K3, T
 
 
 ### to do
 
-* none 
+* adding Academy and Former members
