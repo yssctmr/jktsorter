@@ -27,9 +27,9 @@ var maxRows = 35;
 // * タイトル情報（編集可能。最後の行に”,”を付けないようにしてください）
 var int_Colspan = 3;
 var ary_TitleData = [
-  "Current Members",
-  "Graduated Members",
-  "BABYMETAL"
+  "Team J",
+  "Team K3",
+  "Team T"
 ];
 
 // * キャラクター情報（編集可能。最後の行に”,”を付けないようにしてください）
