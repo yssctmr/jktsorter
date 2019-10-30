@@ -27,9 +27,9 @@ var maxRows = 35;
 // * タイトル情報（編集可能。最後の行に”,”を付けないようにしてください）
 var int_Colspan = 3;
 var ary_TitleData = [
-  "Current Members",
-  "Graduated Members",
-  "BABYMETAL"
+  "Team J",
+  "Team K3",
+  "Team T"
 ];
 
 // * キャラクター情報（編集可能。最後の行に”,”を付けないようにしてください）
@@ -39,18 +39,19 @@ var ary_TitleData = [
 //   "キャラクター名", "画像（空白の場合、キャラクター名が使用されます）"
 //                                      [1,2,3,4,5,6,7,8,9,
 var ary_CharacterData = [
-  [1, "Aritomo Tsugumi",    [1,0,0,0,0,0], "current/members_idx_aritomo.jpg"],
-  [1, "Mori Momoe",         [1,0,0,0,0,0], "current/members_idx_mori.jpg"],
-  [1, "Fujihira Kano",      [1,0,0,0,0,0], "current/members_idx_fujihira.jpg"],
-  [1, "Yoshida Soyoka",     [1,0,0,0,0,0], "current/members_idx_yoshida.jpg"],
-  [1, "Yagi Miki",          [1,0,0,0,0,0], "current/members_idx_yagi.jpg"],
-  [1, "Tanaka Miku",        [1,0,0,0,0,0], "current/members_idx_tanaka.jpg"], 
-  [1, "Nozaki Yume",        [1,0,0,0,0,0], "current/members_idx_nozaki.jpg"],   
-  [1, "Nonaka Kokona",      [1,0,0,0,0,0], "current/members_idx_nonaka.jpg"],   
-  [1, "Shiratori Sana",     [1,0,0,0,0,0], "current/members_idx_shiratori.jpg"],
-  [1, "Satou Neo",          [1,0,0,0,0,0], "current/members_idx_sato.jpg"],
-  [1, "Todaka Miko",        [1,0,0,0,0,0], "current/members_idx_todaka.jpg"],
-  [1, "Kimura Sakia",       [1,0,0,0,0,0], "current/members_idx_kimura.jpg"],    
+  [1, "Ariella Callista Ichwan",    [1,0,0,0,0,0], "J/ariel.jpg"],
+  [1, "Aurel Mayori",         [1,0,0,0,0,0], "J/aurel_mayori.jpg"],
+  [1, "Azizi Asadel",      [1,0,0,0,0,0], "J/azizi_asadel.jpg"],
+  [1, "Cindy Hapsari Maharani Pujiantoro Putri",     [1,0,0,0,0,0], "J/cindy_hapsari.jpg"],
+  [1, "Diani Amalia",          [1,0,0,0,0,0], "J/diani.jpg"],
+  [1, "Eve Antoinette Ichwan",        [1,0,0,0,0,0], "J/eve_antoinette.jpg"], 
+  [1, "Feni Fitriani.jpg",        [1,0,0,0,0,0], "J/feni_fitriani.jpg"],   
+  [1, "Made Ayu Vania Aurellia",      [1,0,0,0,0,0], "J/made_ayu_vania_aurellia.jpg"],   
+  [1, "Michelle Christo Kusnadi",     [1,0,0,0,0,0], "J/michelle_christo_kusnadi.jpg"],
+  [1, "Nadila Cindi Wantari",          [1,0,0,0,0,0], "J/nadila_cindi_wantari.jpg"],
+  [1, "Riska Amelia Putri",        [1,0,0,0,0,0], "J/riska_amelia_putri.jpg"],
+  [1, "Rona Ariesta Anggraeni",       [1,0,0,0,0,0], "J/rona_ariesta_anggraeni.jpg"],
+  [1, "Sania Julia Montolalu",       [1,0,0,0,0,0], "J/sania_julia.jpg"],
   [1, "Asou Maaya",         [0,1,0,0,0,0], "graduated/members_idx_asou.jpg"],  
   [1, "Hidaka Marin",       [0,1,0,0,0,0], "graduated/members_idx_hidaka.jpg"],  
   [1, "Shintani Yuzumi",    [0,1,0,0,0,0], "graduated/members_idx_shintani.jpg"],  
