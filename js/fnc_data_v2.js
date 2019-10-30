@@ -69,5 +69,8 @@ var ary_CharacterData = [
   [1, "Shania Gracia",        [0,1,0,0,0,0], "K3/shania_gracia.jpg"],
   [1, "Viviyona Apriani",       [0,1,0,0,0,0], "K3/viviyona_apriani.jpg"],
   [1, "Yessica Tamara",      [0,1,0,0,0,0], "K3/yessica_cintaku.jpg"],
+  
   [1, "Adhisty Zara",      [0,0,1,0,0,0], "T/adhisty_zara.jpg"],
+  [1, "Adriani Elisabeth",           [0,0,1,0,0,0], "T/adriani_elizabeth.jpg"],
+  
 ];
