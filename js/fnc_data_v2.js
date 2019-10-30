@@ -29,7 +29,8 @@ var int_Colspan = 3;
 var ary_TitleData = [
   "Team J",
   "Team K3",
-  "Team T"
+  "Team T",
+  "Academy Class A"
 ];
 
 // * キャラクター情報（編集可能。最後の行に”,”を付けないようにしてください）
@@ -90,4 +91,31 @@ var ary_CharacterData = [
   [1, "Syahfira Angela Nurhaliza",      [0,0,1,0,0,0], "T/syahfira_angela_nurhaliza.jpg"],
   [1, "Tan Zhi Hui Celine",           [0,0,1,0,0,0], "T/tan_zhi_hui_celine.jpg"],
   [1, "Thalia Ivanka Elizabeth Frederik",           [0,0,1,0,0,0], "T/thalia_ivanka_elizabeth.jpg"],
+  
+  [1, "Aiko Harumi",           [0,0,0,1,0,0], "AcademyA/Aiko_Harumi.jpg"],
+  [1, "Amaninah Afiqah",           [0,0,0,1,0,0], "AcademyA/Amaninah_Afiqah.jpg"],
+  [1, "Amira Fatin",           [0,0,0,1,0,0], "AcademyA/amira_fatin.jpg"],
+  [1, "Cindy Nugroho",           [0,0,0,1,0,0], "AcademyA/cindy_nugroho.jpg"],
+  [1, "Cornelia Vanisa",           [0,0,0,1,0,0], "AcademyA/Cornelia Vania.jpg"],
+  [1, "Devytha Maharani",           [0,0,0,1,0,0], "AcademyA/devytha_maharani.jpg"],
+  [1, "Dhea Angelia",           [0,0,0,1,0,0], "AcademyA/Dhea_Angelia.jpg"],
+  [1, "Eriena Kartika",           [0,0,0,1,0,0], "AcademyA/eriena.jpg"],
+  [1, "Febi Komaril",           [0,0,0,1,0,0], "AcademyA/Febi.jpg"],
+  [1, "Febrina Diponegoro",           [0,0,0,1,0,0], "AcademyA/Febrina.jpg"],
+  [1, "Febriola Sinambela",           [0,0,0,1,0,0], "AcademyA/febriola_sinambela.jpg"],
+  [1, "Flora Shafiq",           [0,0,0,1,0,0], "AcademyA/flora.jpg"],
+  [1, "Freyana Shifa Jayawardhana",           [0,0,0,1,0,0], "AcademyA/freija.jpg"],
+  [1, "Gabriella Stevany H.",           [0,0,0,1,0,0], "AcademyA/gabriella_vany.jpg"],
+  [1, "Jessica Chandra",           [0,0,0,1,0,0], "AcademyA/Jessica_chandra.jpg"],
+  [1, "Jesslyn Callista",           [0,0,0,1,0,0], "AcademyA/Jesslyn_callista.jpg"],
+  [1, "Keisya Ramadhani",           [0,0,0,1,0,0], "AcademyA/keisya.jpg"],
+  [1, "Lulu Salsabila",           [0,0,0,1,0,0], "AcademyA/lulululu.jpg"],
+  [1, "Nyimas Ratu Rafa",           [0,0,0,1,0,0], "AcademyA/Ratu.jpg"],
+  [1, "Reva Adriana",           [0,0,0,1,0,0], "AcademyA/reva_p.jpg"],
+  [1, "Reva Fidela",           [0,0,0,1,0,0], "AcademyA/reva_f.jpg"],
+  [1, "Salma Annisa",           [0,0,0,1,0,0], "AcademyA/salma_p.jpg"],
+  [1, "Shalza Grasita",           [0,0,0,1,0,0], "AcademyA/shalza.jpg"],
+  [1, "Umega Maulana Sinambela",           [0,0,0,1,0,0], "AcademyA/umega.jpg"],
+  [1, "Viona Fadrin",           [0,0,0,1,0,0], "AcademyA/vivi.jpg"],
+  [1, "Zahra Nur",           [0,0,0,1,0,0], "AcademyA/zahra.jpg"],
 ];
