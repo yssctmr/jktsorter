@@ -1,6 +1,6 @@
 # JKT48 Sorter
 
-http://JKTsorter.github.io/
+http://yssctmr.github.io/jktsorter
 
 version alpha
 
