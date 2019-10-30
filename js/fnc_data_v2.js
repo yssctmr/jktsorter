@@ -75,5 +75,11 @@ var ary_CharacterData = [
   [1, "Anin Team T",           [0,0,1,0,0,0], "T/anin_team_t.jpg"],
   [1, "Ayana Shahab",      [0,0,1,0,0,0], "T/ayana_shahab.jpg"],
   [1, "Fidly Imanda Azzahra",           [0,0,1,0,0,0], "T/fidly_immanda_azzahra.jpg"],
-  [1, "Gabriel Angelina",           [0,0,1,0,0,0], "T/abriel_angelina.jpg"],
+  [1, "Gabriel Angelina",           [0,0,1,0,0,0], "T/gabriel_angelina.jpg"],
+  [1, "Gabryela Marcelina",      [0,0,1,0,0,0], "T/gabryela_marcelina.jpg"],
+  [1, "Hasyakyla Utami",           [0,0,1,0,0,0], "T/haskyla_utami.jpg"],
+  [1, "Jinan Safa Safira",           [0,0,1,0,0,0], "T/jinan_safa_safira.jpg"],
+  [1, "Melati Putri Rahel Sesilia",      [0,0,1,0,0,0], "T/melati_putri_rahel.jpg"],
+  [1, "Nabila Fitriana",           [0,0,1,0,0,0], "T/nabila_fitriana.jpg"],
+  [1, "Puti Nadhira Azalia",           [0,0,1,0,0,0], "T/puti_nadhira.jpg"],
 ];
