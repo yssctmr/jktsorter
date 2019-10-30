@@ -16,8 +16,8 @@ a, a:hover {
 
 #btn-rawtext {
 	cursor: pointer;
-	color: #FFD1DC;
-	background-color: #000038;
+	color: #f9d5bb;
+	background-color: #f66767;
 	width: 150px;
 	padding: 2px;
 	border: 3px solid #F0027E;
@@ -31,10 +31,10 @@ a, a:hover {
 	height: 50px;
 	top: 0px;
 	left: 0px;
-	background-color: #000038;
+	background-color: #f66767;
 	z-index: 1;
   text-align: center;
-  border-bottom-color: #F0027E;
+  border-bottom-color: #d35656;
   border-bottom-width: 5px;
   border-bottom-style: solid;
 }
@@ -44,7 +44,7 @@ a, a:hover {
   height: 100%;
   bottom: 50px;
   float: left;
-  border-left-color: #F0027E;
+  border-left-color: #d35656E;
   border-left-width: 2px;
   border-left-style: solid;
 }
