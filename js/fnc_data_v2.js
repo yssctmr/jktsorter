@@ -70,21 +70,4 @@ var ary_CharacterData = [
   [1, "Viviyona Apriani",       [0,1,0,0,0,0], "K3/viviyona_apriani.jpg"],
   [1, "Yessica Tamara",      [0,1,0,0,0,0], "K3/yessica_cintaku.jpg"],
   
-  [1, "Adhisty Zara",           [0,0,1,0,0,0], "T/adhisty_zara.jpg"],
-  [1, "Adriani Elisabeth",           [0,0,1,0,0,0], "T/adriani_elizabeth.jpg"],
-  [1, "Anindita Rahma Cahyadi T",           [0,0,1,0,0,0], "T/aninditha_rahma_cahyadi2.jpg"],
-  [1, "Ayana Shahab",      [0,0,1,0,0,0], "T/ayana_shahab.jpg"],
-  [1, "Fidly Imanda Azzahra",                [0,0,1,0,0,0], "T/fidly_immanda_azzahra.jpg"],
-  [1, "Gabriel Angelina",      [0,0,1,0,0,0], "T/gabriel_angelina.jpg"],
-  [1, "Gabryella Marcelina",   [0,0,1,0,0,0], "T/gabryela_marcelina.jpg"],
-  [1, "Hasyakyla Utami",               [0,0,1,0,0,0], "T/haskyla_utami.jpg"],
-  [1, "Jinan Safa Safira",        [0,0,1,0,0,0], "T/jinan_safa_safira.jpg"],
-  [1, "Melati Putri Rahel Sesilia",               [0,0,1,0,0,0], "T/melati_putri_rahel.jpg"],
-  [1, "Nabila Fitriana",               [0,0,1,0,0,0], "T/nabila_fitriana.jpg"]
-  [1, "Puti Nadhira Azalia",      [0,0,1,0,0,0], "T/puti_nadhira.jpg"],
-  [1, "Rinanda Syahputri",   [0,0,1,0,0,0], "T/rinanda.jpg"],
-  [1, "Sonia Natalia",               [0,0,1,0,0,0], "T/sonia_natalia.jpg"],
-  [1, "Syahfira Angela Nurhaliza",        [0,0,1,0,0,0], "T/syahfira_angela_nurhaliza.jpg"],
-  [1, "Tan Zhi Hui Celine",               [0,0,1,0,0,0], "T/tan_zhi_hui_celine.jpg"],
-  [1, "Thalia Ivanka Elizabeth,               [0,0,1,0,0,0], "T/thalia_ivanka_elizabeth_frederik.jpg"]
 ];
