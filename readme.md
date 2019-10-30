@@ -1,11 +1,10 @@
-# sakura gakuin sort /bmsg/ edition
+# JKT48 Sorter
 
-http://sakurasort.github.io/
+http://JKTsorter.github.io/
 
-add new members in js/fnc_data_v2.js and images in img
+version alpha
 
 
 ### to do
 
-* add extended universe
-* match new site design http://www.sakuragakuin.jp/ (probably cant be bothered)
+* none 
