@@ -32,7 +32,7 @@ var ary_TitleData = [
   "Team T",
   "Academy Class A",
   "Academy Class B",
-  "Graduates",
+  "Graduates (belum ada isinya)",
   "Generasi 1",
   "Generasi 2",
   "Generasi 3",
