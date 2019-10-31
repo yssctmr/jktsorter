@@ -2,13 +2,13 @@
 
 http://yssctmr.github.io/jktsorter
 
-version alpha
-JKT48 Team J, K3, T
+version 1.0
+JKT48 Team J, K3, T, Academy and Graduates (Data : 31/10/2019)
 
 
 ### to do
 
-* adding Academy and Former members
+* none
 
 
 ------------------------------------
