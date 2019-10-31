@@ -32,7 +32,7 @@ var ary_TitleData = [
   "Team T",
   "Academy Class A",
   "Academy Class B",
-  "Graduates (belum ada isinya)",
+  "Graduates (test)(belum ada isinya)",
   "Generasi 1",
   "Generasi 2",
   "Generasi 3",
@@ -129,4 +129,8 @@ var ary_CharacterData = [
   [1, "Umega Maulana Sinambela",           [0,0,0,1,0,0,0,0,0,0,0,0,0,1,0], "AcademyA/umega.jpg"],
   [1, "Viona Fadrin",           [0,0,0,1,0,0,0,0,0,0,0,0,1,0,0], "AcademyA/vivi.jpg"],
   [1, "Zahra Nur",           [0,0,0,1,0,0,0,0,0,0,0,0,0,1,0], "AcademyA/zahra.jpg"],
+  
+  [1, "Allisa Astri",           [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Grads/allisa_astri.jpg"],
+  [1, "Allisa Galliamova",           [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Grads/mova.jpg"],
+  [1, "Cleopatra",           [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "Grads/cleo.jpg"],
 ];
