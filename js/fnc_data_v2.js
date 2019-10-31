@@ -130,7 +130,7 @@ var ary_CharacterData = [
   [1, "Viona Fadrin",           [0,0,0,1,0,0,0,0,0,0,0,0,1,0,0], "AcademyA/vivi.jpg"],
   [1, "Zahra Nur",           [0,0,0,1,0,0,0,0,0,0,0,0,0,1,0], "AcademyA/zahra.jpg"],
   
-  [1, "Allisa Astri",           [0,0,0,0,0,1,1,0,0,0,0,0,0,0,0], "Grads/allisa_astri.jpg"],
-  [1, "Allisa Galliamova",           [0,0,0,0,0,1,1,0,0,0,0,0,0,0,0], "Grads/mova.jpg"],
-  [1, "Cleopatra",           [0,0,0,0,0,1,1,0,0,0,0,0,0,0,0], "Grads/cleo.jpg"],
+  [1, "Allisa Astri",           [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "grads/allisa_astri.jpg"],
+  [1, "Allisa Galliamova",           [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "grads/mova.jpg"],
+  [1, "Cleopatra",           [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], "grads/cleo.jpg"],
 ];
