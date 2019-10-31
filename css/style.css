@@ -6,7 +6,7 @@ body {
 	background-image: url("../img/futarilogo.png");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	background-position: 0% -15%;
+	background-position: 100% -15%;
 }
 
 a, a:hover {
