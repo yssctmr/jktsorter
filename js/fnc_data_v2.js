@@ -71,7 +71,7 @@ var ary_CharacterData = [
   [1, "Angelina Christy W.",       [0,1,0,0,0,0,0,0,0,0,0,0,1,0,0], "K3/angelina_christy.jpg"],  
   [1, "Anindita Rahma Cahyadi",    [0,1,1,0,0,0,0,0,1,0,0,0,0,0,0], "K3/aninditha_rahma_cahyadi.jpg"],  
   [1, "Beby Chaesara Anadila",       [0,1,0,0,0,0,1,0,0,0,0,0,0,0,0], "K3/beby_chaseara_anadila.jpg"],
-  [1, "Gita Sekar Andarini",       [0,1,0,0,0,0,0,0,0,0,0,0,1,0,0], "K3/gita_sekar_andarini.jpg"],
+  [1, "Gita Sekar Andarini",       [0,1,0,0,0,0,0,0,0,0,0,1,0,0,0], "K3/gita_sekar_andarini.jpg"],
   [1, "Helisma Mauludzunia Putri",     [0,1,0,0,0,0,0,0,0,0,0,0,1,0,0], "K3/helisma_putri.jpg"], 
   [1, "Jennifer Rachel Natasya",    [0,1,0,0,0,0,0,1,0,0,0,0,0,0,0], "K3/jennifer_rachel_natasya.jpg"],
   [1, "Kandiya Rafa Maulidita",     [0,1,0,0,0,0,0,0,0,0,0,1,0,0,0], "K3/kandiya_rafa_maulidita.jpg"],
