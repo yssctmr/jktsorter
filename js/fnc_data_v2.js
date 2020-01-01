@@ -29,7 +29,7 @@ var int_Colspan = 3;
 var ary_TitleData = [
   "Team J",
   "Team K3",
-  "Team T",
+  "Team T (empty)",
   "Academy Class A",
   "Class B (empty)",
   "Graduates",
