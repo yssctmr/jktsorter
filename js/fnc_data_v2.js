@@ -61,7 +61,6 @@ var ary_CharacterData = [
   [1, "Frieska Anastasia Laksani",        [1,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "J/frieska_anastasia_laksani.jpg"], 
   [1, "Gabriella Margareth W.",        [1,0,0,0,0,0,1,0,0,0,0,0,0,0,0], "J/gabriella.jpg"], 
   [1, "Ni Made Ayu Vania Aurellia",      [1,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "J/made_ayu_vania_aurellia.jpg"],   
-  [1, "Michelle Christo Kusnadi",     [1,0,0,0,0,0,0,0,1,0,0,0,0,0,0], "J/michelle_christo_kusnadi.jpg"],
   [1, "Nadila Cindi Wantari",          [1,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "J/nadila_cindi_wantari.jpg"],
   [1, "Riska Amelia Putri",        [1,0,0,0,0,0,0,0,0,0,0,1,0,0,0], "J/riska_amelia_putri.jpg"],
   [1, "Rona Ariesta Anggraeni",       [1,0,0,0,0,0,0,1,0,0,0,0,0,0,0], "J/rona_ariesta_anggraeni.jpg"],
