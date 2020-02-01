@@ -40,7 +40,8 @@ var ary_TitleData = [
   "Generasi 5",
   "Generasi 6",
   "Generasi 7",
-  "Generasi 8"
+  "Generasi 8",
+  "Generasi 9"
 ];
 
 // * キャラクター情報（編集可能。最後の行に”,”を付けないようにしてください）
@@ -114,11 +115,23 @@ var ary_CharacterData = [
   [1, "Pamela Krysanthe",           [0,0,0,1,0,0,0,0,0,0,0,0,0,1,0], "AcademyA/pamela.jpg"],
   [1, "Nyimas Ratu Rafa",           [0,0,0,1,0,0,0,0,0,0,0,0,0,1,0], "AcademyA/ratu.jpg"],
   [1, "Reva Fidela",           [0,0,0,1,0,0,0,0,0,0,0,0,0,1,0], "AcademyA/reva_f.jpg"],
-  [1, "Salma Annisa",           [0,0,0,1,0,0,0,0,0,0,0,0,0,1,0], "AcademyA/salma_p.jpg"],
+  [1, "Salma Annisa",           [0,0,0,1,0,0,0,0,0,0,0,0,0,1,0], "AcademyA/salma.jpg"],
   [1, "Shalza Grasita",           [0,0,0,1,0,0,0,0,0,0,0,1,0,0,0], "AcademyA/shalza.jpg"],
   [1, "Umega Maulana Sinambela",           [0,0,0,1,0,0,0,0,0,0,0,0,0,1,0], "AcademyA/umega.jpg"],
   [1, "Viona Fadrin",           [0,0,0,1,0,0,0,0,0,0,0,0,1,0,0], "AcademyA/vivi.jpg"],
   [1, "Zahra Nur",           [0,0,0,1,0,0,0,0,0,0,0,0,0,1,0], "AcademyA/zahra.jpg"],
+  
+  [1, "Adzana Shaliha",           [0,0,0,1,0,0,0,0,0,0,0,0,0,0,1], "AcademyA/Adzana_Shaliha.jpg"],
+  [1, "Chaitlyn Gwyneth",           [0,0,0,1,0,0,0,0,0,0,0,0,0,0,1], "AcademyA/Chaitlyn_Gwyneth.jpg"],
+  [1, "Christabel Jocelyn",           [0,0,0,1,0,0,0,0,0,0,0,0,0,0,1], "AcademyA/Christabel_Jocelyn.jpg"],
+  [1, "Indah Cahya",           [0,0,0,1,0,0,0,0,0,0,0,0,0,0,1], "AcademyA/indah_cahya.jpg"],
+  [1, "Kathrina Irene",           [0,0,0,1,0,0,0,0,0,0,0,0,0,0,1], "AcademyA/kathrina_irene.jpg"],
+  [1, "Marsha Lenathea",           [0,0,0,1,0,0,0,0,0,0,0,0,0,0,1], "AcademyA/marsha_lenathea.jpg"],
+  [1, "Nabila Gusmarila",           [0,0,0,1,0,0,0,0,0,0,0,0,0,0,1], "AcademyA/nabila_gusmarila.jpg"],
+  [1, "Olivia Payten",           [0,0,0,1,0,0,0,0,0,0,0,0,0,0,1], "AcademyA/olivia_payten.jpg"],
+  [1, "Putri Elzahra",           [0,0,0,1,0,0,0,0,0,0,0,0,0,0,1], "AcademyA/putri_elzahra.jpg"],
+  [1, "Shinta Devi",           [0,0,0,1,0,0,0,0,0,0,0,0,0,0,1], "AcademyA/shinta_devi.jpg"],
+  [1, "Tiara Sasi",           [0,0,0,1,0,0,0,0,0,0,0,0,0,0,1], "AcademyA/tiara_sasi.jpg"],
   
   [1, "Allisa Astri",           [0,0,0,0,0,1,1,0,0,0,0,0,0,0,0], "grads/allisa_astri.jpg"],
   [1, "Allisa Galliamova",           [0,0,0,0,0,1,1,0,0,0,0,0,0,0,0], "grads/mova.jpg"],
@@ -216,8 +229,8 @@ var ary_CharacterData = [
   [1, "Callista Lea",           [0,0,0,0,0,1,0,0,0,0,0,0,1,0,0], "grads/callista.jpg"],
   [1, "Kanya Caya",           [0,0,0,0,0,1,0,0,0,0,0,0,1,0,0], "grads/kanya_caya.jpg"],
   [1, "Rifa Permatasari",           [0,0,0,0,0,1,0,0,0,0,0,0,1,0,0], "grads/rifa.jpg"],
-  [1, "Michelle Christo Kusnadi",     [1,0,0,0,0,1,0,0,1,0,0,0,0,0,0], "grads/michelle_christo_kusnadi.jpg"],
-  [1, "Jennifer Rachel Natasya",    [0,1,0,0,0,1,0,1,0,0,0,0,0,0,0], "grads/jennifer_rachel_natasya.jpg"],
+  [1, "Michelle Christo Kusnadi",     [0,0,0,0,0,1,0,0,1,0,0,0,0,0,0], "grads/michelle_christo_kusnadi.jpg"],
+  [1, "Jennifer Rachel Natasya",    [0,0,0,0,0,1,0,1,0,0,0,0,0,0,0], "grads/jennifer_rachel_natasya.jpg"],
   [1, "Ratu Vienny Fitrilya",       [0,1,0,0,0,1,0,1,0,0,0,0,0,0,0], "grads/ratu_vienny_fitrilya.jpg"],
   [1, "Viviyona Apriani",       [0,0,0,0,0,1,0,1,0,0,0,0,0,0,0], "grads/viviyona_apriani.jpg"],
   [1, "Adhisty Zara Kusumawardhani",      [0,0,0,0,0,1,0,0,0,0,1,0,0,0,0], "grads/adhisty_zara.jpg"],
@@ -227,6 +240,7 @@ var ary_CharacterData = [
   [1, "Syahfira Angela Nurhaliza",      [0,0,0,0,0,1,0,0,1,0,0,0,0,0,0], "grads/syahfira_angela_nurhaliza.jpg"],
   [1, "Thalia Ivanka Elizabeth Frederik",           [0,0,0,0,0,1,0,1,0,0,0,0,0,0,0], "grads/thalia_ivanka_elizabeth.jpg"],
   [1, "Reva Adriana",           [0,0,0,0,0,1,0,0,0,0,0,0,0,1,0], "grads/reva_p.jpg"],
+  [1, "Iris Vevina Prasetio",           [0,0,0,0,0,1,0,0,0,0,0,0,0,0,0], "grads/iris.jpg"],
   [1, "Aki Takajo",           [0,0,0,0,0,1,1,0,0,0,0,0,0,0,0], "grads/akicha.jpg"],
   [1, "Haruka Nakagawa",           [0,0,0,0,0,1,1,0,0,0,0,0,0,0,0], "grads/haruka.jpg"],
   [1, "Saya Kawamoto",           [0,0,0,0,0,1,0,0,0,0,0,1,0,0,0], "grads/sayaya.jpg"],
