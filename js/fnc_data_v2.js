@@ -240,7 +240,7 @@ var ary_CharacterData = [
   [1, "Syahfira Angela Nurhaliza",      [0,0,0,0,0,1,0,0,1,0,0,0,0,0,0], "grads/syahfira_angela_nurhaliza.jpg"],
   [1, "Thalia Ivanka Elizabeth Frederik",           [0,0,0,0,0,1,0,1,0,0,0,0,0,0,0], "grads/thalia_ivanka_elizabeth.jpg"],
   [1, "Reva Adriana",           [0,0,0,0,0,1,0,0,0,0,0,0,0,1,0], "grads/reva_p.jpg"],
-  [1, "Iris Vevina Prasetio",           [0,0,0,0,0,1,0,0,0,0,0,0,0,0,0], "grads/iris.jpg"],
+  [1, "Iris Vevina Prasetio",           [0,0,0,0,0,1,0,0,0,0,0,0,0,0,1], "grads/iris.jpg"],
   [1, "Aki Takajo",           [0,0,0,0,0,1,1,0,0,0,0,0,0,0,0], "grads/akicha.jpg"],
   [1, "Haruka Nakagawa",           [0,0,0,0,0,1,1,0,0,0,0,0,0,0,0], "grads/haruka.jpg"],
   [1, "Saya Kawamoto",           [0,0,0,0,0,1,0,0,0,0,0,1,0,0,0], "grads/sayaya.jpg"],
