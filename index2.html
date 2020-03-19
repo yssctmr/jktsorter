@@ -38,9 +38,41 @@
 	  </div>
 
 		<div align="center">
-			
-			<span class="tb_header">Display images while sorting.</span>
+			<table id="mainTable">
 
+				<thead>
+					<tr>
+						<td colspan="3" class="tb_header"><br><br><br></td>
+					</tr>
+				</thead>
+
+				<tbody>
+					<tr>
+						<td id="fldLeft" onclick="fnc_Sort(-1);" rowspan="2"><img src="img/sg.png"></td>
+						<td style="border: 0px; width: 7px;" rowspan="2"></td>
+						<td id="fldMiddleT" onclick="fnc_Sort(0);"><p>JKT48 Member Sort</p>
+							<p> Reboost! </p></td>
+						<td style="border: 0px; width: 7px;" rowspan="2"></td>
+						<td id="fldRight" onclick="fnc_Sort(1);" rowspan="2"><img src="img/sg.png"></td>
+					</tr>
+					<tr>
+						<td id="fldMiddleB" onclick="fnc_Undo();">Click to start!</td>
+					</tr>
+				</tbody>
+
+				<tfoot>
+					<tr>
+						<td colspan="3">
+							<div align="center">
+								<br>
+								<input id="optImage" checked="checked" type="checkbox">
+								<span class="tb_header">Display images while sorting.</span>
+							</div>
+						</td>
+					</tr>
+				</tfoot>
+
+			</table>
 		</div><br>
 		<table id="optTable" align="center" width="450"></table><br>
 
