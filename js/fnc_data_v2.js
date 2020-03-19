@@ -232,7 +232,7 @@ var ary_CharacterData = [
   [1, "Rifa Permatasari",           [0,0,0,0,0,1,0,0,0,0,0,0,1,0,0], "grads/rifa.jpg"],
   [1, "Michelle Christo Kusnadi",     [0,0,0,0,0,1,0,0,1,0,0,0,0,0,0], "grads/michelle_christo_kusnadi.jpg"],
   [1, "Jennifer Rachel Natasya",    [0,0,0,0,0,1,0,1,0,0,0,0,0,0,0], "grads/jennifer_rachel_natasya.jpg"],
-  [1, "Ratu Vienny Fitrilya",       [0,1,0,0,0,1,0,1,0,0,0,0,0,0,0], "grads/ratu_vienny_fitrilya.jpg"],
+  [1, "Ratu Vienny Fitrilya",       [0,0,0,0,0,1,0,1,0,0,0,0,0,0,0], "grads/ratu_vienny_fitrilya.jpg"],
   [1, "Viviyona Apriani",       [0,0,0,0,0,1,0,1,0,0,0,0,0,0,0], "grads/viviyona_apriani.jpg"],
   [1, "Adhisty Zara Kusumawardhani",      [0,0,0,0,0,1,0,0,0,0,1,0,0,0,0], "grads/adhisty_zara.jpg"],
   [1, "Ayana Shahab",      [0,0,0,0,0,1,1,0,0,0,0,0,0,0,0], "grads/ayana_shahab.jpg"],
