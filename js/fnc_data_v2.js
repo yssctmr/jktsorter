@@ -52,7 +52,7 @@ var ary_TitleData = [
 //                                      [1,2,3,4,5,6,7,8,9,
 var ary_CharacterData = [
   [1, "Adriani Elisabeth",           [1,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "J/adriani_elizabeth.jpg"],
-  [1, "Amaninah Afiqah",           [1,0,0,0,0,0,0,0,0,0,0,0,0,1,0], "J/amaninah_afiqah.jpg"],
+  [1, "Amaninah Afiqah",           [1,0,0,0,0,0,0,0,0,0,0,0,0,1,0], "J/amanina_afiqah.jpg"],
   [1, "Ariella Callista Ichwan",    [1,0,0,0,0,0,0,0,0,0,0,1,0,0,0], "J/ariel.jpg"],
   [1, "Azizi Asadel",      [1,0,0,0,0,0,0,0,0,0,0,0,1,0,0], "J/azizi_asadel.jpg"],
   [1, "Cindy Hapsari Maharani Pujiantoro Putri",     [1,0,0,0,0,0,0,0,0,1,0,0,0,0,0], "J/cindy_hapsari.jpg"],
@@ -73,7 +73,7 @@ var ary_CharacterData = [
   
   [1, "Anastasya Narwastu Tety Handuran",         [0,1,0,0,0,0,0,0,0,0,0,1,0,0,0], "K3/anastasya_narwastu_tety_handuran.jpg"],  
   [1, "Angelina Christy",       [0,1,0,0,0,0,0,0,0,0,0,0,1,0,0], "K3/angelina_christy.jpg"],  
-  [1, "Anindita Rahma Cahyadi",    [0,1,0,0,0,0,0,0,1,0,0,0,0,0,0], "K3/aninditha_rahma_cahyadi.jpg"],  
+  [1, "Anindita Rahma Cahyadi",    [1,1,1,0,0,0,0,0,1,0,0,0,0,0,0], "K3/aninditha_rahma_cahyadi.jpg"],  
   [1, "Beby Chaesara Anadila",       [0,1,0,0,0,0,1,0,0,0,0,0,0,0,0], "K3/beby_chaseara_anadila.jpg"],
   [1, "Fidly Imanda Azzahra",           [0,1,0,0,0,0,0,0,0,1,0,0,0,0,0], "K3/fidly_immanda_azzahra.jpg"],
   [1, "Gabryela Marcelina",      [0,1,0,0,0,0,0,0,0,0,1,0,0,0,0], "K3/gabryela_marcelina.jpg"],
