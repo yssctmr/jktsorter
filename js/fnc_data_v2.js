@@ -237,7 +237,7 @@ var ary_CharacterData = [
   [1, "Olivia Payten",           [0,0,0,0,0,1,0,0,0,0,0,0,0,0,1], "grads/olivia_payten.jpg"],
   [1, "Tiara Sasi",           [0,0,0,0,0,1,0,0,0,0,0,0,0,0,1], "grads/tiara_sasi.jpg"],
   [1, "Devytha Maharani",           [0,0,0,0,0,1,0,0,0,0,0,0,0,1,0], "grads/devytha_maharani.jpg"],
-  [1, "Eriena Kartika",           [0,0,0,0,0,1,0,0,0,0,0,0,0,1,0], "grads/iris.jpg"],
+  [1, "Eriena Kartika",           [0,0,0,0,0,1,0,0,0,0,0,0,0,1,0], "grads/iris.png"],
   [1, "Puti Nadhira Azalia",           [0,0,0,0,0,1,0,0,0,0,1,0,0,0,0], "grads/puti_nadhira.jpg"],
   [1, "Aiko Harumi",           [0,0,0,0,0,1,0,0,0,0,0,0,1,0,0], "grads/Aiko_Harumi.jpg"],
   [1, "Aki Takajo",           [0,0,0,0,0,1,1,0,0,0,0,0,0,0,0], "grads/akicha.jpg"],
